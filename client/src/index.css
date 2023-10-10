@@ -98,6 +98,7 @@ input:focus {
 
 .cards {
   list-style: none;
+  height: 100%;
 }
 
 .card, .details {
